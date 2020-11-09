@@ -1,0 +1,64 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.alt{
+  background: url(Klokkebilde1.jpg) no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+
+.sinanitext{
+    position: relative;
+    text-align: center;
+    font-family: sans-serif;
+    color: white;
+    margin-top: 10%;
+}
+.sinanitext h1{
+    font-size: 100px;
+    font-family: sans-serif;
+    text-shadow: 1px 1px 9px #000;
+}
+
+.sinanitext h2{
+    font-size: 50px;
+    font-family: sans-serif;
+    text-shadow: 1px 1px 9px #000;
+}
+
+
+.buttons button{
+    height: 60px;
+    width: 200px;
+    font-size: 20px;
+    font-weight: bolder;
+    color: white;
+    background: grey;
+    border: 1px;
+    cursor: pointer;
+    border-radius: 30px;
+    margin-top: 20px;
+    margin-left: 5px;
+    margin-right: 5px;
+    
+    
+
+}
+
+@media only screen and (max-width: 768px) {
+    
+   
+}
+
+@media only screen and (max-width: 992px) {
+    
+
+}
+
+@media only screen and (max-width: 1200px) {
+
+    
+
+}

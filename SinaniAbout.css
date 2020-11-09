@@ -1,0 +1,89 @@
+*{
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
+
+.alt{
+    background: url(Klokkebilde2.jpg) no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+
+h1{
+    position: relative;
+    text-align: center;
+    font-family: sans-serif;
+    color: white;
+    letter-spacing: 1.5px;
+    margin: 20px;
+    
+}
+
+p{
+    position: relative;
+    text-align: center;
+    font-family: sans-serif;
+    color: white;
+    font-size: 20px;
+    margin-left: 400px;
+    margin-right: 400px;
+    letter-spacing: 1.5px;
+     text-shadow: 1px 1px 4px #000;
+}
+
+@media only screen and (max-width: 460px) {
+    h1{
+    position: relative;
+    text-align: center;
+    letter-spacing: 1.5px;
+    margin: 20px;
+        
+    
+}
+
+p{
+    position: relative;
+    text-align: center;
+    font-size: 5px;
+    letter-spacing: 1px;
+    margin-left: 0px;
+    margin-right: 0px;
+    
+}
+
+}
+
+@media only screen and (min-width: 768px) {
+h1{
+    position: relative;
+    text-align: center;
+    letter-spacing: 1.5px;
+    margin: 20px;
+    
+}
+
+p{
+    position: relative;
+    text-align: center;
+    font-size: 15px;
+    letter-spacing: 1.5px;
+    margin-left: 200px;
+    margin-right: 200px;
+    
+}
+    
+   
+}
+
+@media only screen and (max-width: 992px) {
+    
+
+}
+
+@media only screen and (max-width: 1200px) {
+
+    
+
+}
+
