@@ -5,7 +5,7 @@ body{
 }
 
 .alt{
-    background: url(Klokkebilde3.jpg) no-repeat;
+    background: url("./Klokkebilde3.jpg") no-repeat;
     background-size: cover;
     height: 100vh;
 }
