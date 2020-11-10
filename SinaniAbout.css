@@ -14,7 +14,7 @@ h1{
     position: relative;
     text-align: center;
     font-family: sans-serif;
-    color: white;
+    color: lightgrey;
     letter-spacing: 1.5px;
     margin: 20px;
     font-size: 60px;
@@ -26,7 +26,7 @@ p{
     position: relative;
     text-align: center;
     font-family: sans-serif;
-    color: white;
+    color: lightgrey;
     font-size: 40px;
     margin-left: 400px;
     margin-right: 400px;
