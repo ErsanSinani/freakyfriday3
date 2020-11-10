@@ -18,6 +18,7 @@ h1{
     letter-spacing: 1.5px;
     margin: 20px;
     font-size: 60px;
+    text-shadow: 2px 1px 4px #000;
     
 }
 
@@ -30,7 +31,8 @@ p{
     margin-left: 400px;
     margin-right: 400px;
     letter-spacing: 1.5px;
-     text-shadow: 1px 1px 4px #000;
+    text-shadow: 2px 1px 4px #000;
+    
 }
 
 @media only screen and (max-width: 460px) {
